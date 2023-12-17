@@ -12,7 +12,7 @@ public class User {
     private String emailId;
     private String phoneNo;
     private LocalDate dob;
-    private static final String DOMAIN = "xyz.io";
+    private static final String DOMAIN = "xyz.com";
 
     public User(String firstName, String lastName, String phoneNo, LocalDate dob) {
         this.firstName = firstName;
